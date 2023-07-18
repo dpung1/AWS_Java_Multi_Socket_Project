@@ -19,7 +19,7 @@
 ![image](https://github.com/gzero1016/AWS_java_socket_project/assets/129514217/235e903e-bd67-4aaa-b83c-0c10c7596ab6)
 
 ## chattingRoom
-![image](https://github.com/gzero1016/AWS_java_socket_project/assets/129514217/f3b6ae88-39a5-4576-8760-85b2def471eb)
+![image](https://github.com/gzero1016/AWS_java_socket_project/assets/129514217/b6acc20e-18ba-4c47-9d2d-648c4af4ff27)
 
 ## 기능
 1. login 화면 usernameTextField 활성화
@@ -30,7 +30,7 @@
 6. 방 생성 시 waitting room 모든 user에게 roomList 업데이트
 7. 방 입퇴장시 모든 user에게 자동 알림 메세지
 8. 동일한 chattingRoom에 있는 user들만 채팅 가능
-9. 동일한 chattingRoom에 있는 user들중 userList에서 두번클릭하면 귓속말 기능(귓속말 전송 후 전체채팅으로 바뀜)
+9. 동일한 chattingRoom에 있는 user들중 userList에서 두번클릭하면 귓속말 기능(귓속말 전송 후 전체채팅)
 10. chattingRoom에 내가 들어온 방제목 표시
 11. userList에서 방장 표시
 12. 방장이 chattingRoom에서 나가기를 눌렀을경우 젤 위에 있는 user가 자동 방장
